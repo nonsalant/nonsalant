@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him. 
 - ⚡ Fun fact: I'm 6'5" tall. 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fstefanmatei.com)](https://stefanmatei.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnonsalant&screen_name=nonsalant)
+[![Website](https://img.shields.io/website?label=stefanmatei.com&style=for-the-badge&url=https%3A%2F%2Fstefanmatei.com)](https://stefanmatei.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nonsalant?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnonsalant&screen_name=nonsalant)
 
 ### Connect with me:
 
