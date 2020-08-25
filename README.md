@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on client websites and a couple of side projects. 
 - 🌱 I’m currently learning Javascript. 
 - 🤝 I’m looking to collaborate on taking something I built and customizing it or integrating it into your project.
-<!-- - 🤔 I’m looking for help with fiction book recommendations. 
-- 💬 Ask me about nonfiction book or podcast recommendations. -->
 - 📫 How to reach me: https://stefanmatei.com/contact/
 - 😄 Pronouns: He/him. 
 - ⚡ Fun fact: I'm 6'5" tall. 
