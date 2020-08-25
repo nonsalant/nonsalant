@@ -80,4 +80,4 @@ Here are some ideas to get you started:
 [website]: https://stefanmatei.com
 [twitter]: https://twitter.com/nonsalant
 [instagram]: https://instagram.com/stefanalexmatei
-[linkedin]: https://linkedin.com/in/StefanAlexMatei
+[linkedin]: https://linkedin.com/in/stefanmatei
