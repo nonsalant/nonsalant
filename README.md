@@ -33,6 +33,7 @@ I have over a decade of experience in building web-based tools and designing web
 
 <p align="left"> <a href="https://www.codepen.io/nonsalant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/nonsalant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/stefanmatei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nonsalant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+<!--
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -42,6 +43,7 @@ I have over a decade of experience in building web-based tools and designing web
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/nonsalant/contract" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nonsalant&repo=contract&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br />
+-->
 
 ### Support Me
 
