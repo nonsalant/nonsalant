@@ -4,7 +4,7 @@ Hi 👋 My name is Stefan Matei
 Web Developer and Designer
 --------------------------
 
-I have over a decade of experience in building web-based tools and designing websites.
+I build web-based tools and websites.
 
 *   🌍  I'm based in Bucharest, Romania
 *   🖥️  See my portfolio at [stefanmatei.com/portfolio](http://stefanmatei.com/portfolio)
