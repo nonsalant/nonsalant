@@ -11,9 +11,6 @@ I build web-based tools and websites.
 *   ✉️  You can contact me at [stefan@vileworks.com](mailto:stefan@vileworks.com)
 *   🚀  I'm currently working on [📋 Contract Generator](http://stefanmatei.com/contract-generator/)
 *   🤝  I'm open to collaborating on interesting projects
-
-<a href="https://www.github.com/nonsalant" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nonsalant?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
-<a href="https://www.twitter.com/nonsalant" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/nonsalant?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
                 
 ### Skills 
 
