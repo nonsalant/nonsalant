@@ -1,6 +1,6 @@
+<!--
 Hi 👋 My name is Stefan Matei
 =============================
-
 Web Developer and Designer
 --------------------------
 
@@ -11,7 +11,9 @@ I build web-based tools and websites.
 *   ✉️  You can contact me at [stefan@vileworks.com](mailto:stefan@vileworks.com)
 *   🚀  I'm currently working on [📋 Contract Generator](http://stefanmatei.com/contract-generator/)
 *   🤝  I'm open to collaborating on interesting projects
-                
+
+-->
+   
 ### Skills 
 
 <p align="left">
