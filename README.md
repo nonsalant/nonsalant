@@ -17,7 +17,7 @@ I build web-based tools and websites.
 ## Links
 
 - 🔗 "Ephemeral" Tic Tac Toe game: https://codepen.io/nonsalant/full/jOjwvMX
-- 🔗 OS Contract Generator: https://stefanmatei.com/contract-generator/
+- 🔗 Contract Generator: https://stefanmatei.com/contract-generator/
 
 ---
    
