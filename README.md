@@ -12,14 +12,14 @@ I build web-based tools and websites.
 *   🚀  I'm currently working on [📋 Contract Generator](http://stefanmatei.com/contract-generator/)
 *   🤝  I'm open to collaborating on interesting projects
 
--->
+--
 
 ## Links
 
 - 🔗 "Ephemeral" Tic Tac Toe game: https://codepen.io/nonsalant/full/jOjwvMX
 - 🔗 Contract Generator: https://stefanmatei.com/contract-generator/
 
----
+--->
    
 ### Languages & tools 
 
@@ -58,4 +58,4 @@ I build web-based tools and websites.
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/nonsalant"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="110" /></a>
+<a href="https://www.buymeacoffee.com/nonsalant"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="117" /></a>
