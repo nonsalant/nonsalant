@@ -25,9 +25,9 @@ Hey, hi, hello 👋
 
 I do web dev, mostly frontend, buildless and with zero dependencies when possible. I usually work with web components, modern CSS, and vanilla JS. 
 
-⏳ I’m about to wrap up my current project and be open to new work.
+<!-- ⏳ I’m about to wrap up my current project and be open to new work 🧐 -->
 
-🧐 My last 3 (dev+design) projects this year all involved web components which happened to be consumed inside WordPress plugins—you can see them here: [stefanmatei.notion.site/2025](https://stefanmatei.notion.site/2025-21f4830e9322806696bbfa6a6b01af4f)
+My last 3 (dev+design) projects all involved web components which happened to be consumed inside WordPress plugins—you can see them here: [stefanmatei.notion.site/2025](https://stefanmatei.notion.site/2025-21f4830e9322806696bbfa6a6b01af4f)
    
 ### Languages & tools 
 
